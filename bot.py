@@ -25,7 +25,7 @@ from telebot import types
 
 # ================= HARDCODED CONFIG (edit here) =================
 
-BOT_TOKEN = "8337322281:AAEhTHo5WIsiUDcLfVGqvoED-hkRQv3xWpk"
+BOT_TOKEN = "8624547534:AAHUfuWDuwKxgJYHyNpzEd_zREmmEmB_f0Y"
 
 # Your Telegram numeric user id (get from @userinfobot). Only this id can control the bot.
 ADMIN_ID = 8600328303
